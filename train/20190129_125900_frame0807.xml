@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mydata</folder>
+	<filename>20190129_125900_frame0807.jpg</filename>
+	<path>D:\sarveen\3dcamerabodyconditionscoring\body_condition_scoring\mydata\20190129_125900_frame0807.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>168</ymin>
+			<xmax>1280</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>
