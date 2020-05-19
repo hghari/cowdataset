@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OWNIMG</folder>
+	<filename>9.jpg</filename>
+	<path>E:\simulateaug\OWNIMG\9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>digit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>438</xmin>
+			<ymin>541</ymin>
+			<xmax>549</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>
